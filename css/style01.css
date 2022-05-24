@@ -1,9 +1,9 @@
 h1{
-  color: azure
+  color: rgb(208, 73, 16)
 }
 
 li{
-color: blue;
+color: #599858;
   }
 
 p{
@@ -11,5 +11,5 @@ p{
 }
 
 body{
-  background-color: aquamarine;
+  background-color: #ff7ffd;
 }
